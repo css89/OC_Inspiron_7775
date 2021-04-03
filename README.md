@@ -16,17 +16,17 @@ Dell Inspiron 27 7775 All-In-One
 - iMac 17.1 as SMBIOS
 
 Working:
-UHD/4K Screen and scaling
-Mouse and Keyboard
-Gigabit Ethernet
-WiFi (currently only as Wifi N not AX)
-Audio
-EC power management
-RX580 (recorgnised as RX480)
-Audio port
+- UHD/4K Screen and scaling
+- Mouse and Keyboard
+- Gigabit Ethernet
+- WiFi (currently only as Wifi N not AX)
+- Audio
+- EC power management
+- RX580 (recorgnised as RX480)
 
 Not tested yet:
-display brightness control
-HDMI Output/Input
-USB-C
-SD cardreader
+- display brightness control
+- HDMI Output/Input
+- USB-C
+- SD cardreader
+- Audio port
